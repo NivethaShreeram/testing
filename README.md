@@ -1,6 +1,6 @@
 # testing
-<<<<<<< HEAD
 sample case
-=======
-testing
->>>>>>> y1
+1
+1
+1
+
